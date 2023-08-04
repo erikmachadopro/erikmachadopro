@@ -1,6 +1,6 @@
 
-Pós-Graduando em Computação Forense e Segurança da Informação 
-Graduado em Análise e Desenvolvimento de Sistemas
+Pós-Graduando em Computação Forense e Segurança da Informação
+Graduado em Análise e Desenvolvimento de Sistemas <br>
 Programador Full Stack PHP
 Desenvolvedor WEB 
 
