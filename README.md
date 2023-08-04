@@ -24,19 +24,21 @@
 <strong>// HABILITAÇÃO</strong>
 <hr>
 <strong>* Programador Full Stack PHP.</strong>
-<div display="inline">
+<div style="display: inline">
           <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> 
           <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
           <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
 </div>
 <br />
+
 <strong>* Desenvolvedor Web.</strong>
-<div display="inline">
+<div style="display: inline">
           <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> 
           <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
           <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /> 
           <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" />
 </div>
+
 <br /><br />
 
 
