@@ -1,20 +1,44 @@
-### Olá, meu nome é Erik.
+### Olá, bem vindo(a) e obrigado por estar aqui!
+<br />
+<strong>// SOBRE</strong>
+<hr>
+<pre>
+          // a brief description:
+          let erikmachado {
+          name: "Erik Machado",
+          age: 36,
+          country: "Brazil",
+          pronouns: "he/him",
+          skills: ["HTML", "CSS", "PHP", "C#", "ASP.NET", "MySQL", "Bootstrap", "WordPress"],
+          bootcamps: <!-- ["", " ()"], -->
+          };
+</pre>
+<br /><br />
+<strong>// FORMAÇÃO</strong>
+<hr>
+<strong>- Pós-Graduando em Computação Forense e Segurança da Informação.</strong>
 
-Pós-Graduando em Computação Forense e Segurança da Informação.
+<strong>- Graduado em Análise e Desenvolvimento de Sistemas.</strong>
 
-Graduado em Análise e Desenvolvimento de Sistemas.
+<br /><br />
+<strong>// HABILITAÇÃO</strong>
+<hr>
+<strong>* Programador Full Stack PHP.</strong>
+<div display="inline">
+          <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> 
+          <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
+          <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+</div>
+<br />
+<strong>* Desenvolvedor Web.</strong>
+<div display="inline">
+          <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> 
+          <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+          <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /> 
+          <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" />
+</div>
+<br /><br />
 
-Programador Full Stack PHP.
-
-Desenvolvedor Web.
-
-<img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /> 
-<img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" />
-
-<img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
-<img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-          
 
           
           
