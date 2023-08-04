@@ -1,9 +1,12 @@
-### Oi, meu nome é Erik.
+### Olá, meu nome é Erik.
 
 Pós-Graduando em Computação Forense e Segurança da Informação.
-Graduado em Análise e Desenvolvimenmto de Sistemas
-Programador Full Stack PHP
-Desenvolvedor Web
+
+Graduado em Análise e Desenvolvimento de Sistemas.
+
+Programador Full Stack PHP.
+
+Desenvolvedor Web.
 
 <!--
 **erikmachadopro/erikmachadopro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
