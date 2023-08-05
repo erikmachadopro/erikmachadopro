@@ -10,7 +10,7 @@
           country: "Brazil",
           pronouns: "he/him",
           skills: ["HTML", "CSS", "PHP", "C#", "ASP.NET", "MySQL", "Bootstrap", "WordPress"],
-          bootcamps: <!-- ["", " ()"], -->
+          <!-- bootcamps: ["", " ()"], -->
           };
 </pre>
 <br /><br />
