@@ -73,7 +73,7 @@ Perito Forense Criminal em Equipamentos de Informática e Provas Digitais
 <hr>
 
 <br /><br />
-<strong>// Em Desenvolvimento</strong>
+<strong>// Educação Continuada</strong>
 <hr
 - Ethical Hacker
 - Analista de Cyber Security
