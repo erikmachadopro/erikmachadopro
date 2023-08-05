@@ -41,13 +41,13 @@
 <table style="width:100%">
   <tr>
     <td>
-          Analista de Sistemas
+          <h5>Analista de Sistemas</h5>
           <div style="display: inline">
                     <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
           </div>
     </td>
     <td>
-          Desenvolvedor Web
+          <h5>Desenvolvedor Web</h5>
           <div style="display: inline">
                     <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> 
                     <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
@@ -56,7 +56,7 @@
           </div>
     </td>
     <td>
-          Programador Full Stack PHP
+          Programador Full Stack PHP <h5></h5>
           <div style="display: inline">
                     <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> 
                     <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
@@ -67,57 +67,25 @@
   </tr>
   <tr>
     <td>
-          Investigação de Crimes Ciberneticos<br/>
+          <h5>Investigação de Crimes Cibernéticos</h5>
           <div style="display: inline">
                     <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
           </div>
     </td>
     <td>
-          Auditor Forense Computacional Empresarial
+          <h5>Auditor Forense Computacional Empresarial</h5>
           <div style="display: inline">
                     <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
           </div>
     </td>
     <td>
-          Perito Forense Criminal em Equipamentos <br />de Informática e Provas Digitais
+          <h5>Perito Forense Criminal em Equipamentos <br />de Informática e Provas Digitais</h5>
           <div style="display: inline">
                     <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
           </div>
     </td>
   </tr>
 </table>
-
-
-<p>
-Auditoria e investigação de processos de vazamento de dados, investigação de fraudes eletrônicas, investigação de e-mails, recuperação de dados apagados, recuperação e análise de arquivos, análise em computadores, notebooks, tablets, smartphones, HDs e dispositivos de armazenamento.
-
-Consultoria para implantação de LGPD, POP de TI e *treinamentos de equipes para Segurança da Informação*.
-
-*Coleta, análise e produção de provas de computadores, notebooks, dispositivos móveis, e-mails e internet.*
-
-Apoio técnico e consultoria para auxiliar em Processos Administrativos e Judiciais na coleta e análise de provas de natureza digital e tecnológico.
-
-*Proteção de Dados;*
-*Análise de vestígios cibernéticos;*
-*Preservação de dados;*
-*Coleta de dados em Sistemas Operacionais;*
-*Exames de mídias em geral;*
-*Recuperação de evidências;*
-*Identificação de crimes cibernéticos;*
-*Análise de vazamento de dados;*
-*Investigação de crimes na internet*
-*Análise Forense de Sistemas Windows;*
-*Análise Forense de Sistemas Linux;*
-*Análise Forense de Dispositivos Móveis e IoT;*
-*Análise em Locais de Internet;*
-*Perícias em imagens digitais*
-*Produção de Laudos e Pareceres.*
-</p>
-<br />
-
-
-
-<br />
 
 <br /><br />
 <strong>// Artigos</strong>
