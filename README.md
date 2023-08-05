@@ -1,6 +1,7 @@
 ### Olá, bem vindo(a) e obrigado por estar aqui!
 <br />
 <strong>// Sobre</strong>
+<hr>
 <p>
           - <em>Pós-Graduando em Computação Forense e Segurança da Informação.</em><br />
           - <em>Graduado em Análise e Desenvolvimento de Sistemas.</em>
@@ -20,6 +21,10 @@
           - Professor de Cursos Profissionalizantes em Informática <br />
           - Apaixonado por trilhas, camping e natureza.
 </p>
+<br />
+<strong>// Social</strong>
+<hr>
+
 <strong>// Habilitação</strong>
 <hr>
 
