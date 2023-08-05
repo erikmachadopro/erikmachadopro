@@ -1,10 +1,10 @@
 ### Olá, bem vindo(a) e obrigado por estar aqui!
 <br />
 <strong>// Sobre</strong>
-<hr>
-- <em>Pós-Graduando em Computação Forense e Segurança da Informação.</em><br />
-- <em>Graduado em Análise e Desenvolvimento de Sistemas.</em>
-<br /><br />
+<p>
+          - <em>Pós-Graduando em Computação Forense e Segurança da Informação.</em><br />
+          - <em>Graduado em Análise e Desenvolvimento de Sistemas.</em>
+</p>
 <pre>
           // a brief description:
           let erikmachado {
@@ -16,9 +16,10 @@
           <!-- bootcamps: ["", " ()"], -->
           };
 </pre>
-<br />
-
-<br /><br />
+<p>
+          - Professor de Cursos Profissionalizantes em Informática <br />
+          - Apaixonado por trilhas, camping e natureza.
+</p>
 <strong>// Habilitação</strong>
 <hr>
 
@@ -74,10 +75,13 @@ Perito Forense Criminal em Equipamentos de Informática e Provas Digitais
 
 <br /><br />
 <strong>// Educação Continuada</strong>
-<hr
-- Ethical Hacker
-- Analista de Cyber Security
-
+<hr>
+<p>
+          - Atualmente mais focado no aprendizado de:
+          
+          - Ethical Hacker
+          - Analista de Cyber Security
+</p>
 
 
 
