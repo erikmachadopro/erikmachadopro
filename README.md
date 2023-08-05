@@ -56,7 +56,7 @@
           </div>
     </td>
     <td>
-          Programador Full Stack PHP <h5></h5>
+          <h5>Programador Full Stack PHP </h5>
           <div style="display: inline">
                     <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> 
                     <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
