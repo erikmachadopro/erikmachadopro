@@ -81,7 +81,13 @@
 <hr>
 
 <table style="width:100%">
-  <tr>
+  <tr>          
+          <td>
+          <h5>Analista de Suporte Remoto/h5>
+          <div style="display: inline">
+                    <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+          </div>
+    </td>
     <td>
           <h5>Analista de Sistemas</h5>
           <div style="display: inline">
