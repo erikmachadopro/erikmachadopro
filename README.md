@@ -123,7 +123,7 @@ x#ERER## Olá, bem vindo(a) e obrigado por estar aqui!
 <br /><br />
 
 <!-- Módulo Projetos -->
-<h3><small>//</small> Projetos</h3>
+<h3>// Projetos</h3>
 <hr>
 # <h5>App game Mata Mosquito</h5>
 
@@ -151,7 +151,7 @@ Link do Repositório: [APP NOME](LINK)
 <br /><br />
 
 <!-- Módulo Educação COntinuada -->
-<strong>// Educação Continuada</strong>
+<h3>// Educação Continuada</h3>
 <hr>
 <p>
           - Atualmente mais focado no aprendizado de:
