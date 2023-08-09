@@ -154,11 +154,50 @@ Atualmente mais focado no aprendizado de:
 </table>
 
 <div>
-          <div>        
+          <div>     
+                    <table style="width:100%">
+                      <tr>
+                        <th colspan="2">APP Mata Mosquito</th>
+                      </tr>
+                      <tr>          
+                        <td>
+                              <a href="https://erikmachadopro.github.io/javascript_app_mata_mosquito/" target="_blank"><strong>App</strong></a>
+                        </td>
+                        <td>
+                              <a href="https://github.com/erikmachadopro/javascript_app_mata_mosquito" target="_blank"><strong>Repositório</strong></a>
+                        </td>
+                        </tr>
+                    </table>
           </div>    
-          <div>         
+          <div>    
+                    <table style="width:100%">
+                      <tr>
+                        <th colspan="2">Site Financeira</th>
+                      </tr>
+                      <tr>          
+                        <td>
+                              <a href="https://erikmachadopro.github.io/finans/" target="_blank"><strong>Site</strong></a>
+                        </td>
+                        <td>
+                              <a href="https://github.com/erikmachadopro/finans" target="_blank"><strong>Repositório</strong></a>
+                        </td>
+                        </tr>
+                    </table>
           </div>
-          <div>      
+          <div>    
+                    <table style="width:100%">
+                      <tr>
+                        <th colspan="2">Sistema de Orçamento Pessoal</th>
+                      </tr>
+                      <tr>          
+                        <td>
+                              <a href="https://erikmachadopro.github.io/javascript_es6_app_orcamento_pessoal/ " target="_blank"><strong>Site</strong></a>
+                        </td>
+                        <td>
+                              <a href="https://github.com/erikmachadopro/javascript_es6_app_orcamento_pessoal" target="_blank"><strong>Repositório</strong></a>
+                        </td>
+                        </tr>
+                    </table>
           </div>
 </div>
        
