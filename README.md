@@ -97,10 +97,11 @@
                     <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
           </div>
     </td>
-    <td>
-          <h5>⚖️ 🕵️ Investigação de Crimes Cibernéticos</h5>
-          <h5>⚖️ 🕵️ Auditor Forense Computacional Empresarial</h5>
-          ⚖️ 🕵️ Perito Forense Criminal em Equipamentos de Informática e Provas Digitais</h5>
+    <td colspan="2"> 
+          <h5>⚖️ 🕵️ Investigação de Crimes Cibernéticos<br />
+                    ⚖️ 🕵️ Auditor Forense Computacional Empresarial<br />
+                    ⚖️ 🕵️ Perito Forense Criminal em Equipamentos de Informática e Provas Digitais
+          </h5>
           <div style="display: inline">
                     <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
                     <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
