@@ -15,7 +15,7 @@
           age: 36,
           country: "Brazil",
           pronouns: "he/him",
-          skills: ["HTML", "CSS", "Bootstrap",<br /> &nbsp;&nbsp;&nbsp;&nbsp; "WordPress" "PHP", "MySQL"],
+          skills: ["HTML", "CSS", "Bootstrap",<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "WordPress" "PHP", "MySQL"],
           <!-- bootcamps: ["", " ()"], -->
           };
 </pre>
@@ -39,10 +39,6 @@
 
 <a href="mailto:erikmachadopro@gmail.com">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-</a>
-
-<a href="#">
-          <img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white"
 </a>
 
 <a href="https://wa.me/+5562981326542">
@@ -78,6 +74,8 @@
                     <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
           </div>
     </td>
+</tr>
+<tr>  
     <td>
           <h5>🌐 Desenvolvedor Web</h5>
           <div style="display: inline">
