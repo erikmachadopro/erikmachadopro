@@ -122,11 +122,6 @@
 <h3>// Projetos</h3>
 <hr>
 
-<h4>Site Financeira</h4>
-Link do [Site](https://erikmachadopro.github.io/finans/) <br />
-Link do [Repositório](https://github.com/erikmachadopro/finans) 
-<br />
-
 <h4>Sistema de Orçamento Pessoal</h4>
 Link do [Sistema](https://erikmachadopro.github.io/javascript_es6_app_orcamento_pessoal/ ) <br />
 Link do [Repositório](https://github.com/erikmachadopro/javascript_es6_app_orcamento_pessoal ) 
@@ -141,10 +136,23 @@ Link do [Repositório](https://github.com/erikmachadopro/javascript_es6_app_orca
           <a href="https://erikmachadopro.github.io/javascript_app_mata_mosquito/">Site App</a>
     </td>
     <td>
-          <a href="https://github.com/erikmachadopro/javascript_app_mata_mosquito">Repositório/a>
+          <a href="https://github.com/erikmachadopro/javascript_app_mata_mosquito">Repositório</a>
     </td>
-</tr>
+    </tr>
+</table>
 
+<table style="width:100%">
+  <tr>
+    <th colspan="2">Site Financeira</th>
+  </tr>
+  <tr>          
+    <td>
+          <a href="https://erikmachadopro.github.io/finans/">Site</a>
+    </td>
+    <td>
+          <a href="https://github.com/erikmachadopro/finans">Repositório</a>
+    </td>
+    </tr>
 </table>
 
 <!-- Módulo Educação COntinuada -->
