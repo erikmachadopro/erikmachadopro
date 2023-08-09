@@ -131,7 +131,7 @@
           <a href="https://erikmachadopro.github.io/javascript_app_mata_mosquito/" target="_blank"><strong>App</strong></a>
     </td>
     <td>
-          <a href="https://github.com/erikmachadopro/javascript_app_mata_mosquito" target="_blank"><strong>Repositório</strong>strong></a>
+          <a href="https://github.com/erikmachadopro/javascript_app_mata_mosquito" target="_blank"><strong>Repositório</strong></a>
     </td>
     </tr>
 </table>
@@ -142,10 +142,10 @@
   </tr>
   <tr>          
     <td>
-          <a href="https://erikmachadopro.github.io/finans/" target="_blank">Site</a>
+          <a href="https://erikmachadopro.github.io/finans/" target="_blank"><strong>Site</strong></a>
     </td>
     <td>
-          <a href="https://github.com/erikmachadopro/finans" target="_blank">Repositório</a>
+          <a href="https://github.com/erikmachadopro/finans" target="_blank"><strong>Repositório</strong></a>
     </td>
     </tr>
 </table>
@@ -156,10 +156,10 @@
   </tr>
   <tr>          
     <td>
-          <a href="https://erikmachadopro.github.io/javascript_es6_app_orcamento_pessoal/ " target="_blank">Site</a>
+          <a href="https://erikmachadopro.github.io/javascript_es6_app_orcamento_pessoal/ " target="_blank"><strong>Site</strong></a>
     </td>
     <td>
-          <a href="https://github.com/erikmachadopro/javascript_es6_app_orcamento_pessoal" target="_blank">Repositório</a>
+          <a href="https://github.com/erikmachadopro/javascript_es6_app_orcamento_pessoal" target="_blank"><strong>Repositório</strong></a>
     </td>
     </tr>
 </table>
