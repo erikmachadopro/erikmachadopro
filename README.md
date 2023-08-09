@@ -1,5 +1,5 @@
 ## Olá, bem vindo(a) e obrigado por estar aqui!
-<br /><br />
+<hr>
 
 <!-- Módulo Sobre -->
 <h3>// Sobre</h3>
