@@ -117,13 +117,13 @@ x#ERER## Olá, bem vindo(a) e obrigado por estar aqui!
 <br /><br />
 
 <!-- Módulo Artigos -->
-//<h3> Artigos</h3
+<h3>// Artigos</h3>
 <hr>
 
 <br /><br />
 
 <!-- Módulo Projetos -->
-//<h3> Projetos</h3>
+<h3><small>//</small> Projetos</h3>
 <hr>
 # <h5>App game Mata Mosquito</h5>
 
