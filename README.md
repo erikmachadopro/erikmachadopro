@@ -71,15 +71,6 @@ Atualmente mais focado no aprendizado de:
           </div>
     </td>
     <td>
-          <h5>Analista de Sistemas</h5>
-          <div style="display: inline">
-                    <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-                    <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-                    <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-                    <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-          </div>
-    </td>
-    <td>
           <h5>🌐 Desenvolvedor Web</h5>
           <div style="display: inline">
                     <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> 
@@ -88,8 +79,6 @@ Atualmente mais focado no aprendizado de:
                     <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" />
           </div>
     </td>
-</tr>
-<tr>  
     <td>
           <h5>💻 Programador Full Stack PHP </h5>
           <div style="display: inline">
@@ -99,7 +88,9 @@ Atualmente mais focado no aprendizado de:
                     <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
           </div>
     </td>
-    <td colspan="2"> 
+</tr>
+<tr>  
+    <td colspan="3"> 
           <h5>⚖️ 🕵️ Investigação de Crimes Cibernéticos<br />
                     ⚖️ 🕵️ Auditor Forense Computacional Empresarial<br />
                     ⚖️ 🕵️ Perito Forense Criminal em Equipamentos de Informática e Provas Digitais
