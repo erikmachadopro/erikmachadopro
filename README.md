@@ -4,7 +4,7 @@
 <br />
 
 <!-- Módulo Sobre -->
-<strong>// Sobre</strong>
+<h5>// Sobre</h5>
 <hr>
 <p>
           - 👨🏻‍💻 <em>Pós-Graduando em Computação Forense e Segurança da Informação.</em><br />
@@ -29,7 +29,7 @@
 <br />
 
 <!-- Módulo Social -->
-<strong>// Social</strong>
+<h5>// Social</h5>
 <hr>
 <a href="https://www.linkedin.com/in/erikmachadopro/">
           <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -55,9 +55,10 @@
           <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
 </a>
 
+<br /><br />
 
 <!-- Módulo Habilitação -->
-<strong>// Habilitação</strong>
+<h5>// Habilitação</h5>
 <hr>
 
 <table style="width:100%">
