@@ -142,22 +142,10 @@ Link do [Repositório](https://github.com/erikmachadopro/javascript_es6_app_orca
   </tr>
   <tr>          
           <td>
-          <h5>Site App</h5>
-          <div style="display: inline">
-                    <img width="50" heigt="50" src="https://drive.google.com/file/d/12H67ldfYnMgP3MXX7hkI5dyxGeV3t5mE/view?usp=sharing" />
-                    <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-                    <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-                    <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-          </div>
-    </td>
+                    < href="">Site App</a>
+          </td>
     <td>
-          <h5>Analista de Sistemas</h5>
-          <div style="display: inline">
-                    <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-                    <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-                    <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-                    <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-          </div>
+          < href="">Site App</a>
     </td>
 </tr>
 
