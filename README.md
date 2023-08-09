@@ -33,22 +33,22 @@ Atualmente mais focado no aprendizado de:
 <h3>// Contato</h3>
 <hr>
 <p align=”center”>
-          <a href="https://www.linkedin.com/in/erikmachadopro/">
+          <a href="https://www.linkedin.com/in/erikmachadopro/" target="_blank">
                     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
           </a>
-          <a href="https://github.com/erikmachadopro">
+          <a href="https://github.com/erikmachadopro" target="_blank">
                     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
           </a>
-          <a href="https://www.behance.net/erikmachadopro">
+          <a href="https://www.behance.net/erikmachadopro" target="_blank">
                     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"
           </a>
-          <a href="https://www.youtube.com/channel/UCb6n0TnhqKB2UOoCa_Rc9Iw">
+          <a href="https://www.youtube.com/channel/UCb6n0TnhqKB2UOoCa_Rc9Iw" target="_blank">
                     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"
           </a>
-          <a href="mailto:erikmachadopro@gmail.com">
+          <a href="mailto:erikmachadopro@gmail.com" target="_blank">
                     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
           </a>
-          <a href="https://wa.me/+5562981326542">
+          <a href="https://wa.me/+5562981326542" target="_blank">
                     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
           </a>          
 </p>
