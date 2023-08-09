@@ -108,7 +108,6 @@
     </td>
   </tr>
   <tr>
-
     <td>
           <h5>⚖️ 🕵️ Perito Forense Criminal em Equipamentos <br />de Informática e Provas Digitais</h5>
           <div style="display: inline">
