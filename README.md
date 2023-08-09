@@ -14,7 +14,7 @@
           age: 36,
           country: "Brazil",
           pronouns: "he/him",
-          skills: ["HTML", "CSS", "Bootstrap",<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "WordPress" "PHP", "MySQL"],
+          skills: ["HTML", "CSS", "Bootstrap",<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "WordPress" "PHP", "MySQL"],
           <!-- bootcamps: ["", " ()"], -->
           };
 </pre>
