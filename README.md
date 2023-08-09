@@ -1,19 +1,12 @@
 ### Olá, bem vindo(a) e obrigado por estar aqui!
 <br />
-<p>
-          Computação Forense e Segurança da Informação <br />
-          nálise e desenvolvimento de Sistemas <br />
-          Desenvolvedor Web <br />
-          Programador PHP <br />
-          Perito Judicial em TI <br />
-          Assistente Técnico Judicial em TI <br />
-</p>
+
 <br />
 <strong>// Sobre</strong>
 <hr>
 <p>
-          - <em>👨🏻‍💻 Pós-Graduando em Computação Forense e Segurança da Informação.</em><br />
-          - <em>🖥️ Graduado em Análise e Desenvolvimento de Sistemas.</em>
+          - 👨🏻‍💻 <em>Pós-Graduando em Computação Forense e Segurança da Informação.</em><br />
+          - 🖥️ <em>Graduado em Análise e Desenvolvimento de Sistemas.</em>
           <br />
 </p>
 <pre>    // a brief description:
@@ -37,14 +30,14 @@
 
 <!-- <a href=""><img src=""</a>
  -->
-<a href="#">
+<a href="https://www.linkedin.com/in/erikmachadopro/">
           <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
 </a>
-<a href="#">
+<a href="https://www.instagram.com/erikmachadopro/">
           <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
 </a>
 
-<a href="#">
+<a href="mailto:erikmachadopro@gmail.com">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
 </a>
 
@@ -52,29 +45,20 @@
           <img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white"
 </a>
 
-<a href="#">
+<a href="https://wa.me/+5562981326542">
           <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
 </a>
 
-<a href="#">
+<a href="https://www.youtube.com/channel/UCb6n0TnhqKB2UOoCa_Rc9Iw">
           <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"
 </a>
 
-<a href="#">
+<a href="https://github.com/erikmachadopro">
           <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
 </a>
 
-<a href="#">
+<a href="https://www.behance.net/erikmachadopro">
           <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"
-</a>
-
-<a href="#">
-          <img src=""
-</a>
-
-
-<a href="#">
-          <img src=""
 </a>
 
 <strong>// Habilitação</strong>
