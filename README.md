@@ -1,10 +1,8 @@
 ### Olá, bem vindo(a) e obrigado por estar aqui!
-<br />
-
-<br />
+<br /><br />
 
 <!-- Módulo Sobre -->
-<h5>// Sobre</h5>
+<h3>// Sobre</h3>
 <hr>
 <p>
           - 👨🏻‍💻 <em>Pós-Graduando em Computação Forense e Segurança da Informação.</em><br />
@@ -29,7 +27,7 @@
 <br />
 
 <!-- Módulo Social -->
-<h5>// Social</h5>
+<h3>// Social</h3>
 <hr>
 <a href="https://www.linkedin.com/in/erikmachadopro/">
           <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -54,11 +52,10 @@
 <a href="https://www.instagram.com/erikmachadopro/">
           <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
 </a>
-
 <br /><br />
 
 <!-- Módulo Habilitação -->
-<h5>// Habilitação</h5>
+<h3>// Habilitação</h3>
 <hr>
 
 <table style="width:100%">
@@ -117,19 +114,18 @@
     </td>
   </tr>
 </table>
-
 <br /><br />
 
 <!-- Módulo Artigos -->
-<strong>// Artigos</strong>
+//<h3> Artigos</h3
 <hr>
 
 <br /><br />
 
 <!-- Módulo Projetos -->
-<strong>// Projetos</strong>
+//<h3> Projetos</h3>
 <hr>
-# App game Mata Mosquito
+# <h5>App game Mata Mosquito</h5>
 
 Site do App: https://erikmachadopro.github.io/javascript_app_mata_mosquito/ <br />
 Link do Repositório: [GAME MATA MOSQUITO](https://github.com/erikmachadopro/javascript_app_mata_mosquito) 
