@@ -1,19 +1,19 @@
 ### Olá, bem vindo(a) e obrigado por estar aqui!
 <br />
 <p>
-          👨🏻‍💻Computação Forense e Segurança da Informação <br />
-          🖥️Análise e dev de sistemas <br />
-          🌐Desenvolvedor Web <br />
-          💻Programador PHP <br />
-          ⚖️Perito Judicial em TI <br />
-          🕵️Assistente Técnico Judicial em TI <br />
+          Computação Forense e Segurança da Informação <br />
+          nálise e desenvolvimento de Sistemas <br />
+          Desenvolvedor Web <br />
+          Programador PHP <br />
+          Perito Judicial em TI <br />
+          Assistente Técnico Judicial em TI <br />
 </p>
 <br />
 <strong>// Sobre</strong>
 <hr>
 <p>
-          - <em>Pós-Graduando em Computação Forense e Segurança da Informação.</em><br />
-          - <em>Graduado em Análise e Desenvolvimento de Sistemas.</em>
+          - <em>👨🏻‍💻 Pós-Graduando em Computação Forense e Segurança da Informação.</em><br />
+          - <em>🖥️ Graduado em Análise e Desenvolvimento de Sistemas.</em>
           <br />
 </p>
 <pre>    // a brief description:
@@ -95,7 +95,7 @@
           </div>
     </td>
     <td>
-          <h5>Desenvolvedor Web</h5>
+          <h5>🌐 Desenvolvedor Web</h5>
           <div style="display: inline">
                     <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> 
                     <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
@@ -104,7 +104,7 @@
           </div>
     </td>
     <td>
-          <h5>Programador Full Stack PHP </h5>
+          <h5>💻 Programador Full Stack PHP </h5>
           <div style="display: inline">
                     <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> 
                     <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
@@ -115,19 +115,19 @@
   </tr>
   <tr>
     <td>
-          <h5>Investigação de Crimes Cibernéticos</h5>
+          <h5>⚖️ 🕵️ Investigação de Crimes Cibernéticos</h5>
           <div style="display: inline">
                     <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
           </div>
     </td>
     <td>
-          <h5>Auditor Forense Computacional Empresarial</h5>
+          <h5>⚖️ 🕵️ Auditor Forense Computacional Empresarial</h5>
           <div style="display: inline">
                     <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
           </div>
     </td>
     <td>
-          <h5>Perito Forense Criminal em Equipamentos <br />de Informática e Provas Digitais</h5>
+          <h5>⚖️ 🕵️ Perito Forense Criminal em Equipamentos <br />de Informática e Provas Digitais</h5>
           <div style="display: inline">
                     <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
           </div>
