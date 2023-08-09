@@ -18,7 +18,6 @@
           <!-- bootcamps: ["", " ()"], -->
           };
 </pre>
-<br />
 <p>
           - Professor de Cursos Profissionalizantes em Informática <br />
           - Apaixonado por trilhas, camping e natureza.
@@ -29,7 +28,6 @@
           - Ethical Hacker
           - Analista de Cyber Security
 </p>
-<br />
 
 <!-- Módulo Contato -->
 <h3>// Contato</h3>
