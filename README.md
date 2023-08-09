@@ -109,14 +109,6 @@
           </div>
     </td>
   </tr>
-  <tr>
-    <td>
-          <h5>
-          <div style="display: inline">
-                    <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-          </div>
-    </td>
-  </tr>
 </table>
 <br /><br />
 
