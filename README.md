@@ -23,6 +23,12 @@
           - Professor de Cursos Profissionalizantes em Informática <br />
           - Apaixonado por trilhas, camping e natureza.
 </p>
+<p>
+          - Atualmente mais focado no aprendizado de:
+          
+          - Ethical Hacker
+          - Analista de Cyber Security
+</p>
 <br />
 
 <!-- Módulo Social -->
@@ -161,20 +167,7 @@
     </td>
     </tr>
 </table>
-
-<!-- Módulo Educação COntinuada -->
-<h3>// Educação Continuada</h3>
-<hr>
-<p>
-          - Atualmente mais focado no aprendizado de:
-          
-          - Ethical Hacker
-          - Analista de Cyber Security
-</p>
-
-
-
-          
+       
           
 
 <!--
