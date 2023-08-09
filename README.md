@@ -19,14 +19,12 @@
           };
 </pre>
 <ul>
-          <li>Professor de Cursos Profissionalizantes em Informática</li>
-          <li>Professor de Cursos Profissionalizantes em Informática</li>
+          <li>Professor de Cursos Profissionalizantes em Informática.</li>
+          <li>Apaixonado por trilhas, camping e natureza.</li>
 </ul>
-          - Apaixonado por trilhas, camping e natureza.
-</p>
 <p>
-          - Atualmente mais focado no aprendizado de:
-          
+Atualmente mais focado no aprendizado de:
+
           - Ethical Hacker
           - Analista de Cyber Security
 </p>
