@@ -121,10 +121,10 @@
 <!-- Módulo Projetos -->
 <h3>// Projetos</h3>
 <hr>
-# <h5>App game Mata Mosquito</h5>
+<h4>App game Mata Mosquito</h4>
 
-Site do App: https://erikmachadopro.github.io/javascript_app_mata_mosquito/ <br />
-Link do Repositório: [GAME MATA MOSQUITO](https://github.com/erikmachadopro/javascript_app_mata_mosquito) 
+Link do [APP](https://erikmachadopro.github.io/javascript_app_mata_mosquito/) <br />
+Link do [Repositório](https://github.com/erikmachadopro/javascript_app_mata_mosquito) 
 
 <br>
 #
