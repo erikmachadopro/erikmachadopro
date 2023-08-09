@@ -18,8 +18,10 @@
           <!-- bootcamps: ["", " ()"], -->
           };
 </pre>
-<p>
-          - Professor de Cursos Profissionalizantes em Informática <br />
+<ul>
+          <li>Professor de Cursos Profissionalizantes em Informática</li>
+          <li>Professor de Cursos Profissionalizantes em Informática</li>
+</ul>
           - Apaixonado por trilhas, camping e natureza.
 </p>
 <p>
