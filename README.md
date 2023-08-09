@@ -121,10 +121,6 @@
 <!-- Módulo Projetos -->
 <h3>// Projetos</h3>
 <hr>
-<h4>App game Mata Mosquito</h4>
-Link do [APP](https://erikmachadopro.github.io/javascript_app_mata_mosquito/) 
-Link do [Repositório](https://github.com/erikmachadopro/javascript_app_mata_mosquito) 
-<br />
 
 <h4>Site Financeira</h4>
 Link do [Site](https://erikmachadopro.github.io/finans/) <br />
@@ -141,11 +137,11 @@ Link do [Repositório](https://github.com/erikmachadopro/javascript_es6_app_orca
     <th colspan="2">APP Mata Mosquito</th>
   </tr>
   <tr>          
-          <td>
-                    < href="">Site App</a>
-          </td>
     <td>
-          < href="">Site App</a>
+          <a href="https://erikmachadopro.github.io/javascript_app_mata_mosquito/">Site App</a>
+    </td>
+    <td>
+          <a href="https://github.com/erikmachadopro/javascript_app_mata_mosquito">Repositório/a>
     </td>
 </tr>
 
