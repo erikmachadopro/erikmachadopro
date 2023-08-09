@@ -128,10 +128,10 @@
   </tr>
   <tr>          
     <td>
-          <a href="https://erikmachadopro.github.io/javascript_app_mata_mosquito/" target="_blank">Site App</a>
+          <a href="https://erikmachadopro.github.io/javascript_app_mata_mosquito/" target="_blank"><strong>App</strong></a>
     </td>
     <td>
-          <a href="https://github.com/erikmachadopro/javascript_app_mata_mosquito" target="_blank">Repositório</a>
+          <a href="https://github.com/erikmachadopro/javascript_app_mata_mosquito" target="_blank"><strong>Repositório</strong>strong></a>
     </td>
     </tr>
 </table>
