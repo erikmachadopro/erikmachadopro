@@ -63,9 +63,9 @@ Atualmente mais focado no aprendizado de:
           <td>
           <h5>Analista de Suporte Remoto</h5>
           <div style="display: inline">
-                    <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-                    <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-                    <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+                    <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+                    <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />
+                    <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
                     <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
           </div>
     </td>
