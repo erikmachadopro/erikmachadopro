@@ -51,7 +51,7 @@ Atualmente mais focado no aprendizado de:
                     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
           </a>          
 
-<br /><br />
+<br />
 
 <!-- Módulo Habilitação -->
 <h3>// Habilitação</h3>
@@ -152,6 +152,15 @@ Atualmente mais focado no aprendizado de:
     </td>
     </tr>
 </table>
+
+<div>
+          <div>        
+          </div>    
+          <div>         
+          </div>
+          <div>      
+          </div>
+</div>
        
           
 
