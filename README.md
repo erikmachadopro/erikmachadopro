@@ -16,7 +16,7 @@
           - <em>Graduado em Análise e Desenvolvimento de Sistemas.</em>
           <br />
 </p>
-<code>    // a brief description:
+<pre>    // a brief description:
           let erikmachado {
           name: "Erik Machado",
           age: 36,
@@ -25,7 +25,7 @@
           skills: ["HTML", "CSS", "Bootstrap", "WordPress" "PHP", "MySQL"],
           <!-- bootcamps: ["", " ()"], -->
           };
-</code>
+</pre>
 <br />
 <p>
           - Professor de Cursos Profissionalizantes em Informática <br />
