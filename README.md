@@ -85,7 +85,6 @@
     </td>
 </tr>
 <tr>  
-    
     <td>
           <h5>💻 Programador Full Stack PHP </h5>
           <div style="display: inline">
