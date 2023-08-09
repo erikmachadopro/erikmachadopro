@@ -103,6 +103,7 @@
                     ⚖️ 🕵️ Perito Forense Criminal em Equipamentos de Informática e Provas Digitais
           </h5>
           <div style="display: inline">
+                    [Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
                     <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
                     <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
                     <img width="50" heigt="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
