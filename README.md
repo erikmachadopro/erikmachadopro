@@ -2,6 +2,8 @@
 <br />
 
 <br />
+
+<!-- Módulo Sobre -->
 <strong>// Sobre</strong>
 <hr>
 <p>
@@ -25,11 +27,10 @@
           - Apaixonado por trilhas, camping e natureza.
 </p>
 <br />
+
+<!-- Módulo Social -->
 <strong>// Social</strong>
 <hr>
-
-<!-- <a href=""><img src=""</a>
- -->
 <a href="https://www.linkedin.com/in/erikmachadopro/">
           <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
 </a>
@@ -57,6 +58,7 @@
           <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"
 </a>
 
+<!-- Módulo Habilitação -->
 <strong>// Habilitação</strong>
 <hr>
 
@@ -118,10 +120,14 @@
 </table>
 
 <br /><br />
+
+<!-- Módulo Artigos -->
 <strong>// Artigos</strong>
 <hr>
 
 <br /><br />
+
+<!-- Módulo Projetos -->
 <strong>// Projetos</strong>
 <hr>
 # App game Mata Mosquito
@@ -148,6 +154,8 @@ Site do App:                           <br />
 Link do Repositório: [APP NOME](LINK)
 
 <br /><br />
+
+<!-- Módulo Educação COntinuada -->
 <strong>// Educação Continuada</strong>
 <hr>
 <p>
