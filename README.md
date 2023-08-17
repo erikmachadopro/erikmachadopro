@@ -99,7 +99,7 @@ Atualmente mais focado no aprendizado de:
     </td>
   </tr>
 </table>
-<br /><br />
+<br />
 
 <!-- Módulo Artigos 
 <h3>// Artigos</h3>
