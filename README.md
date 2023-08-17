@@ -101,10 +101,10 @@ Atualmente mais focado no aprendizado de:
 </table>
 <br /><br />
 
-<!-- Módulo Artigos -->
+<!-- Módulo Artigos 
 <h3>// Artigos</h3>
 <hr>
-
+-->
 <br /><br />
 
 <!-- Módulo Projetos -->
