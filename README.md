@@ -104,8 +104,10 @@ Atualmente mais focado no aprendizado de:
 <!-- Módulo Artigos 
 <h3>// Artigos</h3>
 <hr>
--->
+
 <br /><br />
+-->
+
 
 <!-- Módulo Projetos -->
 <h3>// Projetos</h3>
